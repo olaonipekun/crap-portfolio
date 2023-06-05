@@ -1,1 +1,1 @@
-# crap-portfolio
+A vite powered react portfolio web app, simple integration, custom ui design..
