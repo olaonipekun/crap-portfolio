@@ -8,15 +8,16 @@ import { Box, Stack } from '@mui/material'
 function Home() {
   return (
     <>
-        <HeaderComp/>
+   
         <div>
           <Box>
+            <HeaderComp/>
             <Stack direction="row" spacing={2} justifyContent="space-around">
               <MenuComp />
               <ContentComp />
-              <FooterComp />
             </Stack>
           </Box>
+          <FooterComp />
         </div>
     </>
   )
