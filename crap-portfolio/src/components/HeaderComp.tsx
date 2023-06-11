@@ -5,7 +5,7 @@ export const HeaderComp = () => {
   return (
     <AppBar>
       <Toolbar>
-        Header component
+        Header
       </Toolbar>
       
       
